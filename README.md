@@ -21,7 +21,7 @@ This repository documents my journey toward becoming an Associate QA Engineer th
 ## Roadmap
 
 - [x] Phase 0 – Project Kickoff
-- [ ] Phase 1 – Software Testing Foundations
+- [x] Phase 1 – Software Testing Foundations
 - [ ] Phase 2 – Manual Testing Fundamentals
 - [ ] Phase 3 – Test Design & Practical Manual Testing
 - [ ] Phase 4 – Agile & Test Management
