@@ -1,6 +1,6 @@
 # Screenshots
 
-This folder contains screenshots used as supporting evidence for my QA self-study journey, practice activities, and documentation.
+This folder contains screenshots used as supporting evidence for my QA self-study journey, hands-on practice, and project documentation.
 
 ## Categories
 
@@ -13,8 +13,22 @@ This folder contains screenshots used as supporting evidence for my QA self-stud
 
 ## Current Screenshots
 
-- Trello Test Scenario Board
-  - Demonstrates organizing and tracking manual test scenarios using a Kanban workflow.
-  - Shows prioritization of High Priority scenarios and checklist-based progress tracking.
+### Login Practice Page
+- Demonstrates execution of manual testing on a sample login application.
+- Used to validate login functionality, field validations, and authentication scenarios.
 
-> Screenshots are stored as supporting evidence for testing activities, project documentation, and learning progress.
+### Test Scenario Reference
+- Displays the provided test credentials, business rules, and prioritized test scenarios for the login practice project.
+- Used as the reference during test execution.
+
+### Trello Test Scenario Board
+- Demonstrates organizing and tracking manual test scenarios using a Kanban workflow.
+- Shows prioritization of High, Medium, and Low Priority scenarios.
+- Uses checklist-based progress tracking to monitor test coverage.
+
+### Trello Test Execution
+- Demonstrates execution progress by marking completed scenarios.
+- Shows how Trello can be used to monitor testing status and execution coverage during a testing session.
+
+> **Note:**  
+> The screenshots in this folder are from practice environments and learning activities completed as part of my QA self-study journey. They are included solely as documentation of my hands-on experience and learning progress.
