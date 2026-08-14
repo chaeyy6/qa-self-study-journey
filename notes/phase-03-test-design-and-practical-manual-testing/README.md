@@ -7,8 +7,6 @@ This phase focuses on applying software testing techniques through practical tes
 - Test Scenario Writing — Facebook Sign Up
 - Test Scenario Writing — Login & Search
 - Test Case Fundamentals & Setup
-- Test Case Writing — Sign Up
-- Test Case Practice & Assessment
 - Zephyr Scale — Setup & Fundamentals
 - Zephyr Scale — Test Case Management
 - Zephyr Scale — Test Data & Data-Driven Testing
