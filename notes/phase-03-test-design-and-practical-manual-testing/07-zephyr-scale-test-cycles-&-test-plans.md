@@ -140,7 +140,7 @@ Test Cycle(s)
     ↓
 Test Case(s)
 
-8. Test Plan Features
+## 8. Test Plan Features
 
 A Test Plan can contain information such as:
 
