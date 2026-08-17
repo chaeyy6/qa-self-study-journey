@@ -12,7 +12,6 @@ This phase focuses on applying software testing techniques through practical tes
 - Zephyr Scale — Test Data & Data-Driven Testing
 - Zephyr Scale — Test Cycles & Test Plans
 - Zephyr Scale — Traceability, Reports & AI
-- Zephyr Scale — Summary & Assessment
 - Flight Booking Application — Project #1
 - To Do List — Project #2
 - Sweet Shop — Project #3
