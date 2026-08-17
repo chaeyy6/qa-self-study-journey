@@ -144,21 +144,21 @@ Test Case(s)
 
 A Test Plan can contain information such as:
 
-Name
-Objective
-Status
-Owner
-Folder
-Labels
+- Name
+- Objective
+- Status
+- Owner
+- Folder
+- Labels
 
 Test Plans can also contain:
 
-Jira issue links
-Web links
-Attachments
-Comments
-Execution history
-Progress Aggregation
+- Jira issue links
+- Web links
+- Attachments
+- Comments
+- Execution history
+- Progress Aggregation
 
 The overall progress of a Test Plan reflects the combined progress of the Test Cycles assigned to it.
 
