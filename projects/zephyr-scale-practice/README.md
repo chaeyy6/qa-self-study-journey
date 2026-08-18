@@ -4,7 +4,7 @@
 
 This project documents my hands-on practice using **Zephyr Scale** for test case management and manual test execution.
 
-The project was completed as part of my QA self-study journey and was based on an instructor-provided practical testing project. The purpose was to gain experience with a professional test management tool and understand how test cases, folders, test cycles, executions, and test results are managed in a practical testing workflow.
+The project was conducted as part of my QA self-study journey and was based on an instructor-provided practical testing project. The purpose was to gain hands-on experience with a professional test management tool and understand how test cases, folders, test cycles, executions, and test results are managed in a practical testing workflow.
 
 ## Project Objective
 
