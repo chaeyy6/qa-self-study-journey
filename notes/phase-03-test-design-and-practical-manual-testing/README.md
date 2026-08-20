@@ -16,14 +16,12 @@ This phase focuses on applying software testing techniques through practical tes
 - Boundary Value Analysis
 - Decision Table Testing
 - State Transition & Pairwise Testing
-- Black-Box Test Techniques — Summary
 - White-Box Testing Fundamentals
 - Statement Coverage
 - Decision Coverage
 - Condition Coverage
 - Path Coverage
 - MCDC & Loop Coverage
-- White-Box Testing — Summary
 
 ## Goal
 
