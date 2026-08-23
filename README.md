@@ -32,7 +32,6 @@ This repository documents my journey toward becoming an Associate QA Engineer th
 - [ ] Phase 9 – Automation Foundations
 - [ ] Phase 10 – Selenium Automation
 - [ ] Phase 11 – Alternative Test Automation
-- [ ] Phase 12 – Career Preparation
 
 ---
 
