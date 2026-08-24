@@ -6,7 +6,6 @@ This phase focuses on understanding Agile methodologies, managing Agile project 
 
 - Creating Scrum Project in Jira
 - Managing Agile Project Artifacts
-- Choosing Test Management Tool for Test Case Writing
 - Integrating Qase with Jira
 - Creating Test Cases & Tracking Project Progress
 - Agile Fundamentals
