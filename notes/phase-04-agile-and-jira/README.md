@@ -12,7 +12,6 @@ This phase focuses on understanding Agile methodologies, managing Agile project 
 - Agile Team & Feedback
 - Agile Requirements & User Stories
 - Scrum & Agile Practices
-- Kanban & Agile Testing
 - Jira & Scrum Project Setup
 - User Stories & Acceptance Criteria
 - Sprint Planning & Monitoring
