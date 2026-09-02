@@ -24,7 +24,7 @@ This repository documents my journey toward becoming an Associate QA Engineer th
 - [x] Phase 1 – Software Testing Foundations
 - [x] Phase 2 – Manual Testing Fundamentals
 - [x] Phase 3 – Test Design & Practical Manual Testing
-- [ ] Phase 4 – Agile & Test Management
+- [x] Phase 4 – Agile & Test Management
 - [ ] Phase 5 – API Testing
 - [ ] Phase 6 – SQL & Database Testing
 - [ ] Phase 7 – Mobile Testing
